@@ -25,7 +25,7 @@ const Maintenance = () => {
                 <Subtitle>JESUSMH - PORTAFOLIO PERSONAL</Subtitle>
                 <br/>
                 <div className={styles.text_container}>
-                    <CustomText>Estoy trabajando duro, salvaje visitante, pronto tendremos actualizaciones, espera sentado, por fas.</CustomText> 
+                    <CustomText>Estamos trabajando para traer nuevas actualizaciones de la página, nos vemos pronto.</CustomText> 
                 </div>
                
             </section>
