@@ -41,3 +41,27 @@
     left: 0;
     margin-top: -50px;
 }
+
+.text_container{
+    max-width: 600px;
+}
+
+@media (max-width: 600px) {
+    .main_container{
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr;
+        min-height: 100vh;
+        max-height: 300vh;
+    }
+
+    .right_container{
+        justify-content: flex-start;
+        padding: 1rem;
+        margin-top: 1rem;
+    }
+
+    .tape_container_left{
+        bottom: 10;
+        margin-top: -70px;
+    }
+  }

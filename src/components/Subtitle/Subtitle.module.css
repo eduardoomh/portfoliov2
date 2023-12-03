@@ -2,5 +2,11 @@
     font-size: 1.4rem;
     font-weight: 500;
     letter-spacing: 1px;
-    color: 262932;
+    color: #262932;
 }
+
+@media (max-width: 600px) {
+    .h2{
+       font-size: 1.1rem;
+    }
+  }

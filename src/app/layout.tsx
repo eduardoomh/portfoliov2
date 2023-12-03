@@ -18,7 +18,7 @@ export default function RootLayout({
     <html lang="en">
       <Head>
         <meta property="og:title" content="JesusMH - Portafolio personal"/>
-          <meta property="og:description" content="Portafolio de proyectos y de experiencia de JesusMH"/>
+          <meta property="og:description" content="Proyectos y experiencia personal."/>
             <meta property="og:image" content="https://www.jesusmh.com/images/man_in_laptop.png"/>
               <meta property="og:url" content="https://jesusmh.com"/>
                 <meta property="og:type" content="website"/>
